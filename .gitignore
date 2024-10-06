@@ -1,3 +1,5 @@
 space_apps_2024_seismic_detection/
-data/
 testing.ipynb
+AlgoResultCatalog.csv
+lunarOutputTestApollo2_B.csv
+lunarOutputTest.csv
